@@ -14,4 +14,4 @@ Then click the link or the button in the app. Nothing happens when running via t
 
 ## Video
 
-![Screencast of issue](repro.webm)
+[Screencast of issue](repro.webm)
